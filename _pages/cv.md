@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* H.BSc in Mathematics and Physics, McMaster University, 2021
+* M.S. in Mathematics, McMaster University, 2022
+* Ph.D in Mathematics, McMaster University, 2026 (expected)
 
 Work experience
 ======
