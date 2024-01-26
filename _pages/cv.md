@@ -17,24 +17,35 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* September 2021 - Present: Teaching assistant and researcher
+  * McMaster University Department of Mathematics and Statistics, Hamilton, ON
+  * Duties included: Teaching tutorial sections, holding office hours, and grading
+  * Supervisor: Dr. Aaron Childs
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* March 2021 - August 2021: Shipping and receiving
+  * Purity Dairy, Charlottetown, PEI
+  * Duties included: Shipping and receiving, milk production, and deliveries
+  * Supervisor: Tom Cullen 
+
+* March 2020 - August 2020: Bike mechanic
+  * Outer Limit Sports, Charlottetown, PEI
+  * Duties included: Bike mechanic and sales
+  * Supervisor: Brett Doyle
+
+* April 2018 - August 2019: Shipping and receiving
+  * Kent Building Supplies, Charlottetown, PEI
+  * Duties included: Deliveries, shipping, and inventory control
+  * Supervisor: Jim Power
+
+* June 2017 - August 2017: Customer service and sales
+  * Green Power Adventure, Cavendish, PEI
+  * Duties included: Customer service and sales
+  * Supervisor: George Zhang
+ 
+*June 2016 - August 2017
+  * Department of Transportation, Bonshaw Hills Provincial Park, PEI
+  * Duties included: Multi-use trail builder
+  * Supervisor: Albert Flavel
 
 Publications
 ======
@@ -53,7 +64,4 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+ 
