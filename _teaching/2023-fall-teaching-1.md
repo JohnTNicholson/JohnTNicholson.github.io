@@ -1,5 +1,5 @@
 ---
-title: "Math 1ZC3 - Engineering Mathematics II-B"
+title: "Past teaching at McMaster University "
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2023-09-01
@@ -8,6 +8,10 @@ date: 2023-09-01
 location: "Hamilton, Ontario"
 ---
 
-In the fall semester of the 2023-2024 academic year I taught all three tutorial sections for Math 1ZC3. Math 1ZC3 serves as an introduction to linear algebra for engineering students.
-Tutorial Notes
-======
+In the past I have taught the following tutorials at McMaster University.
+
+- Math 1ZC3 - Engineering Mathematics II-B (Fall semester 2023)
+- Math 1B03 - Introduction to Linear Algebra (Winter semester 2023)
+- Math 1B03 - Introduction to Linear Algebra (Fall semester 2023)
+
+

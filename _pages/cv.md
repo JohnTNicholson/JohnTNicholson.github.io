@@ -32,27 +32,6 @@ Work experience
   * Duties included: Bike mechanic and sales
   * Supervisor: Brett Doyle
 
-* April 2018 - August 2019: Shipping and receiving
-  * Kent Building Supplies, Charlottetown, PEI
-  * Duties included: Deliveries, shipping, and inventory control
-  * Supervisor: Jim Power
-
-* June 2017 - August 2017: Customer service and sales
-  * Green Power Adventure, Cavendish, PEI
-  * Duties included: Customer service and sales
-  * Supervisor: George Zhang
- 
-*June 2016 - August 2017
-  * Department of Transportation, Bonshaw Hills Provincial Park, PEI
-  * Duties included: Multi-use trail builder
-  * Supervisor: Albert Flavel
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
 Talks
 ======
   <ul>{% for post in site.talks %}

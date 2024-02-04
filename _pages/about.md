@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-Hi! My name is John Nicholson. I am a second year PhD student in mathematical logic at McMaster University. My research interests lie in the interesection of theoretical computer science and mathematical logic employing tools from universal algebra. I am currently trying to apply tools from universal algebra to problems in formal language theory. 
+Hi! My name is John Nicholson. I am a second year PhD candidate in mathematical logic at McMaster University. My research interests lie in the intersection of theoretical computer science and mathematical logic. I am currently trying to apply tools from universal algebra to problems in formal language theory. 
