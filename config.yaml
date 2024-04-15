@@ -1,0 +1,55 @@
+baseURL: https://johntnicholson.github.io
+languageCode: 'en-us'
+title: 'John Nicholson'
+author: 'John'
+
+frontmatter:
+  date:
+    - :filename
+    - date
+    - publishDate
+  sitename: 'John Nicholson'
+  author: 'John'
+
+permalinks:
+  posts: /:year/:month/:day/:slug
+
+enableInlineShortcodes: true
+pygmentsUseClasses: true
+pygmentsCodeFences: true
+
+params:
+  highlight: true
+  dark: "off"
+  description: "John Nicholson's Academic Webpage"
+  copyright: "Copyright © 2024 John Nicholson"
+
+markup:
+  goldmark:
+    extensions:
+      definitionList: true
+      footnote: true
+      linkify: true
+      linkifyProtocol: https
+      strikethrough: true
+      table: true
+      taskList: true
+      typographer: true
+    parser:
+      attribute:
+        block: false
+        title: true
+      autoHeadingID: true
+      autoHeadingIDType: github
+    renderer:
+      hardWraps: false
+      unsafe: true
+      xhtml: false
+
+menu:
+  main:
+    - identifier: "About"
+      name: "About"
+      title: "About"
+      url: "/about/"
+      weight: 30
